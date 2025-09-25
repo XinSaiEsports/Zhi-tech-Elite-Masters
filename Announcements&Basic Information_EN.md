@@ -1,4 +1,4 @@
-# ZDM Elite Championship
+# Zhi-tech Elite Masters
 
 -   Event Date:December 17 to December 28,2025
 
