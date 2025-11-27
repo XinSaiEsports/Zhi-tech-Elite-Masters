@@ -20,7 +20,7 @@
 
      -    Re-fund policy: If your team needs to withdraw from the tournament before December 15th(Beijing Time) we will try to replace your team with teams on the waiting list. If we find a replacement we will re-fund the full amount. If teams withdraw or fail to lock in lineup after December 15th(Beijing Time) no refund will be made.
 
--   A total of 16 teams will be accepted through open registration. Registration is only valid once the payment has been completed via the Alipay QR code sent by email. Limited slots available!
+-   A total of 16 teams will be accepted through open registration. Registration is only valid once the payment has been completed. Limited slots available!
 
 -   Initial seeding will be determined according to the VRS list as of January 2026.
 
