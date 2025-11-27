@@ -16,15 +16,7 @@
 
 -   This tournament is open to teams from across the globe.
 
--   The registration fee per team:3000 RMB(payment via Alipay QR code)
-
-     -   Teams will participate in the Closed Qualifier online at their own expense; the organizer will not reimburse any related costs.
-
-     -    The organizer will cover flight/train transportation to Beijing for teams advancing to the Playoffs.
-
-     -    The organizer will provide accommodation and catering in Beijing for teams advancing to the Playoffs.
-
-     -    The organizer will provide training rooms in Beijing for teams advancing to the Playoffs.
+-   The registration fee per team:3000 RMB
 
      -    Re-fund policy: If your team needs to withdraw from the tournament before December 15th(Beijing Time) we will try to replace your team with teams on the waiting list. If we find a replacement we will re-fund the full amount. If teams withdraw or fail to lock in lineup after December 15th(Beijing Time) no refund will be made.
 
