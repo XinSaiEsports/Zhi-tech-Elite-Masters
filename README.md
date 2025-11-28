@@ -1,1 +1,1 @@
-# ZDM-Elite-Championship
+# ZHI-TECH-Elite-Championship
