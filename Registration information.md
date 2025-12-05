@@ -17,3 +17,4 @@
 |15|2025/12/5 12:14:27|Eruption|等待付款Awaiting payment|
 |16|2025/12/5 12:32:48|CHINGGIS WARRIORS|注册成功registered successfully|
 |替补Backup 1|2025/12/5 13:52:05|Alter Ego|等待付款Awaiting payment|
+|替补Backup 2|2025/12/5 17:06:05|XDM|等待付款Awaiting payment|
