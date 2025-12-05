@@ -16,4 +16,4 @@
 |14|2025/12/5 00:11:58|FENGDA Gaming|等待付款Awaiting payment|
 |15|2025/12/5 12:14:27|Eruption|等待付款Awaiting payment|
 |16|2025/12/5 12:32:48|CHINGGIS WARRIORS|等待付款Awaiting payment|
-
+|替补Backup 1|2025/12/5 13:52:05|Alter Ego|等待付款Awaiting payment|
