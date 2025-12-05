@@ -10,8 +10,8 @@
 |8|2025/12/5 00:00:40|Change The Game|注册成功registered successfully|
 |9|2025/12/5 00:01:55|FlyQuest|注册成功registered successfully|
 |10|2025/12/5 00:03:39|Just Swing|注册成功registered successfully|
-|11|2025/12/5 00:04:53|Rare Atom|等待付款Awaiting payment|
-|12|2025/12/5 00:04:55|ENCE|等待付款Awaiting payment|
+|11|2025/12/5 00:04:53|Rare Atom|注册成功registered successfully|
+|12|2025/12/5 00:04:55|ENCE|注册成功registered successfully|
 |13|2025/12/5 00:10:56|K.O|等待付款Awaiting payment|
 |14|2025/12/5 00:11:58|FENGDA Gaming|注册成功registered successfully|
 |15|2025/12/5 12:14:27|Eruption|等待付款Awaiting payment|
