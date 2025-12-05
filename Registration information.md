@@ -6,7 +6,7 @@
 |4|2025/12/5 00:00:32|Ever Grow Gaming|注册成功registered successfully|
 |5|2025/12/5 00:00:32|P01 Gaming|注册成功registered successfully|
 |6|2025/12/5 00:00:35|Mr.Kangaroo|等待付款Awaiting payment|
-|7|2025/12/5 00:00:40|Steel Helmet|等待付款Awaiting payment|
+|7|2025/12/5 00:00:40|Steel Helmet|注册成功registered successfully|
 |8|2025/12/5 00:00:40|Change The Game|注册成功registered successfully|
 |9|2025/12/5 00:01:55|FlyQuest|注册成功registered successfully|
 |10|2025/12/5 00:03:39|Just Swing|注册成功registered successfully|
