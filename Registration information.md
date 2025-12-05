@@ -9,9 +9,11 @@
 |2025/12/5 00:00:40|Steel Helmet|等待付款Awaiting payment|
 |2025/12/5 00:00:40|Change The Game|等待付款Awaiting payment|
 |2025/12/5 00:01:55|FlyQuest|等待付款Awaiting payment|
-|2025/12/5 00:03:39|Just Swing|等待付款Awaiting payment|
+|2025/12/5 00:03:39|Just Swing|注册成功registered successfully|
 |2025/12/5 00:04:53|Rare Atom|等待付款Awaiting payment|
 |2025/12/5 00:04:55|ENCE|等待付款Awaiting payment|
 |2025/12/5 00:10:56|K.O|等待付款Awaiting payment|
 |2025/12/5 00:11:58|FENGDA Gaming|等待付款Awaiting payment|
+|2025/12/5 12:14:27|Eruption|等待付款Awaiting payment|
+|2025/12/5 12:32:48|CHINGGIS WARRIORS|等待付款Awaiting payment|
 
