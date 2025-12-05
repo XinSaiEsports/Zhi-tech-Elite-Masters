@@ -19,3 +19,5 @@
 |替补Backup 1|2025/12/5 13:52:05|Alter Ego|等待付款Awaiting payment|
 |替补Backup 2|2025/12/5 17:06:05|XDM|等待付款Awaiting payment|
 |替补Backup 3|2025/12/5 18:37:09|The Huns|等待付款Awaiting payment|
+|替补Backup 4|2025/12/5 22:00:15|Take Me Away|等待付款Awaiting payment|
+|替补Backup 5|2025/12/5 23:15:37|Unsettled Resentment|等待付款Awaiting payment|
