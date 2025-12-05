@@ -2,9 +2,9 @@
 |:------------:|:------------:|:--------:|:-------------:|
 |1|2025/12/5 00:00:12|OG Esports|注册成功registered successfully|
 |2|2025/12/5 00:00:24|Morningstar|注册成功registered successfully|
-|3|2025/12/5 00:00:26|Lynn Vision Gaming|等待付款Awaiting payment|
+|3|2025/12/5 00:00:26|Lynn Vision Gaming|注册成功registered successfully|
 |4|2025/12/5 00:00:32|Ever Grow Gaming|注册成功registered successfully|
-|5|2025/12/5 00:00:32|P01 Gaming|等待付款Awaiting payment|
+|5|2025/12/5 00:00:32|P01 Gaming|注册成功registered successfully|
 |6|2025/12/5 00:00:35|Mr.Kangaroo|等待付款Awaiting payment|
 |7|2025/12/5 00:00:40|Steel Helmet|等待付款Awaiting payment|
 |8|2025/12/5 00:00:40|Change The Game|注册成功registered successfully|
