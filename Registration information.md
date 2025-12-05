@@ -13,7 +13,7 @@
 |11|2025/12/5 00:04:53|Rare Atom|等待付款Awaiting payment|
 |12|2025/12/5 00:04:55|ENCE|等待付款Awaiting payment|
 |13|2025/12/5 00:10:56|K.O|等待付款Awaiting payment|
-|14|2025/12/5 00:11:58|FENGDA Gaming|等待付款Awaiting payment|
+|14|2025/12/5 00:11:58|FENGDA Gaming|注册成功registered successfully|
 |15|2025/12/5 12:14:27|Eruption|等待付款Awaiting payment|
 |16|2025/12/5 12:32:48|CHINGGIS WARRIORS|等待付款Awaiting payment|
 |替补Backup 1|2025/12/5 13:52:05|Alter Ego|等待付款Awaiting payment|
