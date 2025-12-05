@@ -1,6 +1,6 @@
 |序号Number|注册时间Registration time（Beijing Time）|队伍Team|注册状态Registration status|
 |:------------:|:------------:|:--------:|:-------------:|
-|1|2025/12/5 00:00:12|OG Esports|等待付款Awaiting payment|
+|1|2025/12/5 00:00:12|OG Esports|注册成功registered successfully|
 |2|2025/12/5 00:00:24|Morningstar|注册成功registered successfully|
 |3|2025/12/5 00:00:26|Lynn Vision Gaming|等待付款Awaiting payment|
 |4|2025/12/5 00:00:32|Ever Grow Gaming|注册成功registered successfully|
