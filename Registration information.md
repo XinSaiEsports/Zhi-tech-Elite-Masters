@@ -21,3 +21,4 @@
 |15|2025/12/5 18:37:09|The Huns|注册成功registered successfully|
 |16|2025/12/5 22:00:15|Take Me Away|等待付款Awaiting payment|
 |替补Backup 1|2025/12/5 23:15:37|Unsettled Resentment|等待付款Awaiting payment|
+|替补Backup 2|2025/12/6 18:51:19|Eruption|注册成功registered successfully|
