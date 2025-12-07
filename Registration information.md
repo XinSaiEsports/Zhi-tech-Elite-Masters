@@ -19,6 +19,8 @@
 ||~~2025/12/5 13:52:05~~|~~Alter Ego~~|~~注册失败（未付款）Registration failed (unpaid)~~|
 |14|2025/12/5 17:06:05|XDM|注册成功registered successfully|
 |15|2025/12/5 18:37:09|The Huns|注册成功registered successfully|
-|16|2025/12/5 22:00:15|Take Me Away|等待付款Awaiting payment|
-|替补Backup 1|2025/12/5 23:15:37|Unsettled Resentment|等待付款Awaiting payment|
-|替补Backup 2|2025/12/6 18:51:19|Eruption|注册成功registered successfully|
+||~~2025/12/5 22:00:15~~|~~Take Me Away~~|~~注册失败（未付款）Registration failed (unpaid)~~|
+|16|2025/12/5 23:15:37|Unsettled Resentment|等待付款Awaiting payment|
+|替补Backup 1|2025/12/6 18:51:19|Eruption|注册成功registered successfully|
+|替补Backup 2|2025/12/6 22:23:51|JIJIEHAO|等待付款Awaiting payment|
+|替补Backup 3|2025/12/7 01:51:45|Walk The Talk|等待付款Awaiting payment|
