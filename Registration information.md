@@ -25,3 +25,5 @@
 |替补Backup 2|2025/12/6 22:23:51|JIJIEHAO|等待付款Awaiting payment|
 |替补Backup 3|2025/12/7 01:51:45|Walk The Talk|等待付款Awaiting payment|
 |替补Backup 4|2025/12/9 11:53:32|Tianjin E9 Esports|等待付款Awaiting payment|
+|替补Backup 5|2025/12/9 15:40:35|RAELIX esports|等待付款Awaiting payment|
+|替补Backup 6|2025/12/9 16:47:18|Nexvoid|等待付款Awaiting payment|
