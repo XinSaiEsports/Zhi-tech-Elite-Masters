@@ -24,3 +24,4 @@
 |替补Backup 1|2025/12/6 18:51:19|Eruption|注册成功registered successfully|
 |替补Backup 2|2025/12/6 22:23:51|JIJIEHAO|等待付款Awaiting payment|
 |替补Backup 3|2025/12/7 01:51:45|Walk The Talk|等待付款Awaiting payment|
+|替补Backup 4|2025/12/9 11:53:32|Tianjin E9 Esports|等待付款Awaiting payment|
