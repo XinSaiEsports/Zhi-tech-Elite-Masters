@@ -27,3 +27,4 @@
 |替补Backup 4|2025/12/9 11:53:32|Tianjin E9 Esports|等待付款Awaiting payment|
 |替补Backup 5|2025/12/9 15:40:35|RAELIX esports|等待付款Awaiting payment|
 |替补Backup 6|2025/12/9 16:47:18|Nexvoid|等待付款Awaiting payment|
+|替补Backup 7|2025/12/10 04:23:03|Modun Esports|等待付款Awaiting payment|
